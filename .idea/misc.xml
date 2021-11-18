@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/activity_main.xml" value="0.2942708333333333" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/activity_main_menu.xml" value="0.290625" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/activity_movie_details.xml" value="0.1984375" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/activity_now_playing.xml" value="0.290625" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/card_now_playing.xml" value="0.1984375" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/card_up_coming.xml" value="0.290625" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/fragment_movie_details.xml" value="0.2086956590966153" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/fragment_now_playing.xml" value="0.290625" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/layout/fragment_up_coming.xml" value="0.290625" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/menu/main_menu.xml" value="0.2942708333333333" />
+        <entry key="..\:/FirmanMovieDB-UTS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22407407407407406" />
+        <entry key="..\:/MovieDB/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27447916666666666" />
+        <entry key="..\:/MovieDB/app/src/main/res/drawable/corner.xml" value="0.3104166666666667" />
+        <entry key="..\:/MovieDB/app/src/main/res/drawable/ic_baseline_movie_filter_24.xml" value="0.14444444444444443" />
+        <entry key="..\:/MovieDB/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27447916666666666" />
+        <entry key="..\:/MovieDB/app/src/main/res/layout/activity_main.xml" value="0.2754782700075322" />
+        <entry key="..\:/MovieDB/app/src/main/res/layout/activity_main_menu.xml" value="0.15026087454956302" />
+        <entry key="..\:/MovieDB/app/src/main/res/layout/activity_movie_details.xml" value="0.2754782700075322" />
+        <entry key="..\:/MovieDB/app/src/main/res/layout/activity_now_playing.xml" value="0.11220871327254306" />
+        <entry key="..\:/MovieDB/app/src/main/res/layout/card_now_playing.xml" value="0.2086956590966153" />
+        <entry key="..\:/MovieDB/app/src/main/res/layout/fragment_movie_details.xml" value="0.2203125" />
+        <entry key="..\:/MovieDB/app/src/main/res/layout/fragment_now_playing.xml" value="0.23541666666666666" />
+        <entry key="..\:/MovieDB/app/src/main/res/layout/fragment_up_coming.xml" value="0.23541666666666666" />
+        <entry key="..\:/MovieDB/app/src/main/res/menu/main_menu.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/FirmanMovieDB-UTS/app/src/main/res/layout/activity_now_playing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/FirmanMovieDB-UTS/app/src/main/res/layout/fragment_movie_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/drawable/corner.xml" value="0.3828125" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_main_menu.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_movie_details.xml" value="0.33" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_now_playing.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/card_now_playing.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/card_up_coming.xml" value="0.33" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/fragment_movie_details.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/fragment_now_playing.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/layout/fragment_up_coming.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/YONATAN/AndroidStudioProjects/MovieDB/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
